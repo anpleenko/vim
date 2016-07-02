@@ -1,7 +1,7 @@
 # Заметки о vim
 
 ## Конфигурации для VIM
-[Vim config for web development](://github.com/L0stSoul/vim-config)
+[Vim config for web development](https://github.com/L0stSoul/vim-config)
 
 ## Окна и буферы
 
