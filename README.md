@@ -6,3 +6,8 @@
 
 ## Советы
 - переназначьте Ctrl на Capslock
+
+## Ссылки на статьи по Vim
+- [https://vimgifs.com/](https://vimgifs.com/) *полезные гифки для изучения vim*
+
+
